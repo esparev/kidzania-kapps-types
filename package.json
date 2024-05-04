@@ -1,0 +1,24 @@
+{
+  "name": "@kidzania/kapps-types",
+  "version": "1.0.0",
+  "description": "KidZania type definitions for the KApps suite developed by Digital Ignition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "types",
+    "definitions",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "@types/react": "^18.3.1",
+    "typescript": "^5.4.5"
+  }
+}
